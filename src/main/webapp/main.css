@@ -1,0 +1,29 @@
+.div-wrapper {
+    height: 100%;
+    margin:auto;
+    border: 2px dashed #ddd;
+    border-radius: 8px;
+    
+    width: max-content;
+    
+    
+}
+ 
+.div-to-align {
+    
+    padding: 40px 20px;
+ 
+    /* .... */
+}
+
+.classForm{
+	padding: 20px;
+	background-color: #a35c77;
+	align-items:center;
+	
+}
+
+a:link{
+	color:white;
+}
+
